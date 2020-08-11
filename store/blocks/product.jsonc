@@ -29,7 +29,7 @@
   ],
   "props": {
     "verticalAlign": "middle",
-    "preventVerticalStretch": false
+    "preventVerticalStretch": true
   }
 },
 "product-price": {
