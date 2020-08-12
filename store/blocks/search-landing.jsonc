@@ -1,25 +1,25 @@
 {
-    "store.custom#landing": { 
-      "blocks": [
-        "image#landingbanner", 
-        "search-result-layout.customQuery"
-      ]
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner",
+            "search-result-layout.customQuery"
+        ]
     },
 
     "image#landingbanner": {
         "props": {
-            "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-            "minWidth ": "100%"
-          }
+            "minWidth": "100%",
+            "src": "https://storecomponents.vteximg.com.br/arquivos/box.png"
+            
+        }
     },
-
     "search-result-layout.customQuery": {
         "props": {
             "querySchema": {
-              "orderByField":"OrderByReleaseDateDESC",
-              "hideUnavailableItems":true,
-              "maxItemsPerPage": 8
+                "orderByField": "OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage": 8
             }
-          }
+        }
     }
-  }
+}
