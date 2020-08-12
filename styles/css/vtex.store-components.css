@@ -33,7 +33,7 @@
     background-color: #e1e1e1
   }
 
-.container {
+.container--header {
     width: 800px;
     height: 1000px;
 }

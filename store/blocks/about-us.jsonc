@@ -99,7 +99,8 @@
       },
       "iframe": {
           "props": {
-            "src": "https://www.instagram.com/p/B973Qp8BacC/embed "
+            "src": "https://www.instagram.com/p/B973Qp8BacC/embed ",
+            "blockClass": "header"
           }
       }
 }
